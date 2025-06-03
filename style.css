@@ -314,6 +314,9 @@ p{
     .menu label{
         display: initial;
 }
+     .nav {
+        justify-content: space-between;
+    }
     .menu .navbar{
         position: absolute;
         top:100%;
